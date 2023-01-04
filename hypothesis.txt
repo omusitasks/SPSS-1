@@ -1,0 +1,25 @@
+====== TEST 1=====
+----------when do reject the null hypothesis------
+Reject the null hypothesis when the p-value is less than or equal to your significance level. p <= 0.05
+
+Your sample data favor the alternative hypothesis, which suggests that the effect exists in the population.
+
+----------when do we accept the null hypothesis-------
+If there is greater than a 5% chance of a result as extreme as the sample result when the null hypothesis is true, then the null hypothesis is retained.
+This does not necessarily mean that the researcher accepts the null hypothesis as true—only that there is not currently enough evidence to conclude that it is true.
+
+
+
+====== TEST 2 ======
+If the P-value is less, reject the null hypothesis. 
+If the P-value is more, keep the null hypothesis. 
+
+---FOR EXAMPLE
+0.003 < 0.05, so we have enough evidence to reject the null hypothesis and accept the claim.
+
+
+====== TEST 3=======
+When you can reject the null hypothesis, your results are statistically significant.
+
+Accepting the null hypothesis would indicate that you've proven an effect doesn't exist.
+Failing to reject the null hypothesis is an odd way to state that the results of your hypothesis test are not statistically significant.
